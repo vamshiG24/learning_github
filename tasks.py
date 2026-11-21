@@ -7,3 +7,4 @@ def add_task(task):
 def show_tasks():
     for task in tasks:
         print(task)
+        print(task)
